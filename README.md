@@ -1,6 +1,6 @@
 # github_test
 
-##Slogan
+## Slogan
 
 $코딩은 기세다$
 
